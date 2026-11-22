@@ -1,0 +1,6 @@
+{
+  "name": "Flux",
+  "description": "Interactive real-time vector field, fluid vorticity, and particle advection physics laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
